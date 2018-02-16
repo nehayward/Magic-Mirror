@@ -17,7 +17,7 @@
 ![Demo](Readme/Demo.gif)
 
 ## Screenshots
-![Light](Readme/lightView.png)
+![Light](Readme/LightView.png)
 ![Dark](Readme/DarkView.png)
 
 ## Download
