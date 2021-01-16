@@ -37,5 +37,5 @@
 
 ### Compatibility
 
-PodcastMenu is only available for OS X 10.13 or later.
+Magic Mirror is only available for OS X 10.13 or later.
 
